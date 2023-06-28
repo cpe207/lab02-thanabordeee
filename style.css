@@ -1,17 +1,16 @@
 h3 {
-  text-align: center;
-  color: tomato;
-  font-style: italic;
+  text-align: auto; 
+  font-family: 'Roboto Condensed', sans-serif;
+}
+h4 {
+  text-align: auto; 
+  font-family: 'Roboto Condensed', sans-serif;
 }
 h2 {
   text-align: center;
-  color: tomato;
-  font-style: italic;
 }
 
-p {
-  text-align: center;
-}
+
 .skill-header {
   text-align: left;
 }
@@ -23,9 +22,7 @@ p {
   padding-left: 16px;
   margin-bottom: 8px;
 }
-body {
-  background-color: bisque;
-}
+
 a {
-  color: tomato;
+  font-family: 'Roboto Condensed', sans-serif;
 }
